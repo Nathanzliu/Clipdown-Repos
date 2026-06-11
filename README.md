@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en"><img src="https://img.shields.io/badge/Chrome_Web_Store-v1.1.0-blue?logo=google-chrome&logoColor=white&style=flat-square" alt="Chrome Web Store"></a>
   <img src="https://img.shields.io/badge/Manifest-V3-green?style=flat-square" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/License-MIT-orange?style=flat-square" alt="License MIT">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" alt="License GPL-3.0"></a>
   <img src="https://img.shields.io/badge/Privacy-100%25_Offline-blueviolet?style=flat-square" alt="Privacy First">
 </p>
 
@@ -157,4 +157,5 @@ tags: [gemini-clip, clipdown-archive]
 
 If you have any feature ideas, bug reports, or just want to say hi, feel free to open an **Issue** or share it at our feedback hub: 
 👉 [Featurebase Hub](https://zpen.featurebase.app/)
+
 **GPL-3.0 License © 2026 Clipdown Repos**
