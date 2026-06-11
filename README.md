@@ -1,11 +1,15 @@
-[English](#english) | [中文说明](#中文说明)
+# Clipdown Repos
+
+<a href="#english-version">English</a> | <a href="#chinese-version">中文说明</a>
 
 ---
 
-## English
+<div id="english-version"></div>
+
+## English Version
 
 <p align="center">
-  <img src="logo.png" width="320" alt="Clipdown Logo">
+  <img src="logo.png" width="300" alt="Clipdown Logo">
   <h3 align="center">Clipdown Repos</h3>
   <p align="center">
     A lightweight, local-first, subpixel-optimized Chrome extension built for Gemini. Capture context flawlessly, bypass session lag, and bridge your clips to Obsidian & Notion with front-matter YAML alignment.
@@ -90,6 +94,8 @@ settingsBtn.addEventListener('click', (e) => {
 
 ---
 
+<div id="chinese-version"></div>
+
 ## 中文说明
 
 <p align="center">
@@ -119,7 +125,7 @@ settingsBtn.addEventListener('click', (e) => {
 
 ### 📝 格式导出规范示例
 
-点击 **“导出 Markdown”** 管道后，插件会生成带有标准化元数据的纯净知识档案：
+点击 **“导出 Markdown”** 管道后，插件会生成带有标准化元数据（Front Matter）的纯净知识档案：
 
 ```yaml
 ---
