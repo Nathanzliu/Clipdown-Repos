@@ -1,3 +1,4 @@
+# Clipdown Repos
 
 <a href="#english-version">English</a> | <a href="#chinese-version">中文说明</a>
 
@@ -72,3 +73,21 @@ settingsBtn.addEventListener('click', (e) => {
   e.stopPropagation();
   moreMenuBubble.classList.toggle('show');
 });
+
+---
+
+### 👤 User Testimonials
+
+> 🎓 **The Academic Researcher:**
+> *"Writing my lit review and Gemini keeps generating perfect summary tables, but missing references when the chat lag hits is brutal. Clipdown saves my prompts and generated text locally with one click—it’s a total life-saver for academic research."*
+
+> 💻 **The Local-First Purist:**
+> *"Finally, a Gemini workspace that doesn't rely on cloud servers for storage. It works entirely offline through local storage, meaning zero sync lag and zero data leak risks. Perfect for saving long Gemini responses when my network is acting up."*
+
+---
+
+### 🛠️ Installation
+
+1. Head over to the [Chrome Web Store](https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en).
+2. Click **Add to Chrome**.
+3. Open Gemini, highlight a block of code, and watch the magic happen.
