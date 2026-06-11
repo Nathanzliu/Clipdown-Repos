@@ -1,5 +1,3 @@
-# Clipdown Repos
-
 [English](#english) | [中文说明](#中文说明)
 
 ---
@@ -7,7 +5,7 @@
 ## English
 
 <p align="center">
-  <img src="logo.png" width="120" alt="Clipdown Logo">
+  <img src="logo.png" width="240" alt="Clipdown Logo">
   <h3 align="center">Clipdown Repos</h3>
   <p align="center">
     A lightweight, local-first, subpixel-optimized Chrome extension built for Gemini. Capture context flawlessly, bypass session lag, and bridge your clips to Obsidian & Notion with front-matter YAML alignment.
