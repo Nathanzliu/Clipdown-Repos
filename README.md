@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en"><img src="https://img.shields.io/badge/Chrome_Web_Store-v1.1.0-blue?logo=google-chrome&logoColor=white&style=flat-square" alt="Chrome Web Store"></a>
+  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en"><img src="https://img.shields.io/badge/Chrome_Web_Store-v1.2.0-blue?logo=google-chrome&logoColor=white&style=flat-square" alt="Chrome Web Store"></a>
   <img src="https://img.shields.io/badge/Manifest-V3-green?style=flat-square" alt="Manifest V3">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square" alt="License GPL-3.0"></a>
   <img src="https://img.shields.io/badge/Privacy-100%25_Offline-blueviolet?style=flat-square" alt="Privacy First">
