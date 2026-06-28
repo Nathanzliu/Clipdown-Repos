@@ -14,6 +14,8 @@
   <p align="center">
     A lightweight, local-first, subpixel-optimized Chrome extension built for Gemini. Capture context flawlessly, bypass session lag, and bridge your clips to Obsidian & Notion with front-matter YAML alignment.
   </p>
+  <h3 align="center">From Gemini to anywhere, at anytime.</h3>
+  <p align="center">It's a must-have tool for Gemini</p>
 </p>
 
 <p align="center">
@@ -106,7 +108,7 @@ feel free to open an **Issue** or share it at our feedback hub:
 还在不同的 Gemini 话题、文档、浏览器标签页 and 资源库之间，疲于来回切换复制粘贴吗？或是担心网络波动导致会话意外中断，上下文和对话因网页报错刷新而瞬间蒸发吗？
 是否还因为对话内容过多，使用时记不清或无法快速找到重点内容 and 对话？
 
-**这正是 Clipdown Repos 大显身手的地方** 纯 Local-first 架构。通过局部或全量选取，一键捕获、自动高亮并保留上下文。即使网络不稳定，所划选的内容可即时完整地保存在本地，并完美桥接第三方工作平台，彻底解决会话与内容丢失的恐慌，让知识和想法自然流动。
+**这正是 Clipdown Repos 大显身手的地方。** 纯 Local-first 架构。通过局部或全量选取，一键捕获、自动高亮并保留上下文。即使网络不稳定，所划选的内容可即时完整地保存在本地，并完美桥接第三方工作平台，彻底解决会话与内容丢失的恐慌，让知识和想法自然流动。
 
 > [!IMPORTANT]
 > **Principles：** Clipdown Repos 从不希望成为另一个需要你刻意学习、小心维护的繁琐工具。我们追求「无形无感」——它足够轻量，自然到你几乎忘记它的存在，无需改变任何习惯，便能用最纯粹的架构承载最高频的知识流动。
@@ -154,6 +156,8 @@ feel free to open an **Issue** or share it at our feedback hub:
   <p align="center">
     Geminiのために開発された、軽量かつローカルファーストの革新的なクリップ・管理ワークスペース。
   </p>
+  <h3 align="center">From Gemini to anywhere, at anytime.</h3>
+  <p align="center">It's a must-have tool for Gemini</p>
 </p>
 
 <p align="center">
@@ -180,7 +184,7 @@ feel free to open an **Issue** or share it at our feedback hub:
 
 ### 📦 主な機能と効率性の利点
 
-* **⚡ 「2ステップ」のインスタントキャプチャ**：Gemini のウェブ画面上で任意のテキストを範囲選択し、ネイティブのポップアップバブルをクリックするだけで即座に保存。思考のフローを一切妨げません。
+* **⚡ 「2ステップ」のインスタントキャプチャ**：Gemini のウェブ画面上で任意のテキストを範囲選択し、ネイティブのポップアップバブルをクリックするだけで即座に保存。思考 of フローを一切妨げません。
 * **🧷 クイック引用（Fast Quote）**：保存したコンテンツを1クリックでGeminiの入力フィールドへ即座に自動挿入。煩雑なコピー＆ペーストを排除し、AIとの対話フローをシームレスをつなぎます。
 * **📂 Markdown ナレッジベースへのシームレスな橋渡し（v1.1.0 新機能）**：クリップしたデータを一括でストリーミングエクスポート。Obsidian や Notion に最適化された **Front Matter YAML 形式** を自動生成し、増量バックアップをクリーンに実現します。
 * **🔒 100% 離線動作と究極のプライバシー保護**：アカウント登録や外部サーバーへのデータ通信、バックグラウンドでの追跡（テレメトリ）は一切ありません。データはすべてブラウザのローカルサンドボックス（`chrome.storage.local`）にのみ安全に暗号化保持されます。
