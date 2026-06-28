@@ -25,8 +25,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/你的用户名/你的仓库名/stargazers">
-    <img src="https://img.shields.io/github/stars/你的用户名/你的仓库名?style=for-the-badge&color=ffd700" alt="GitHub Stars">
+  <a href="https://github.com/Nathanzliu/Clipdown-Repos/stargazers">
+    <img src="https://img.shields.io/github/stars/Nathanzliu/Clipdown-Repos?style=for-the-badge&color=ffd700" alt="GitHub Stars">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-lightgrey?style=for-the-badge" alt="License GPL-3.0">
@@ -41,9 +41,7 @@ Are you tired of constantly juggling between dozens of open tabs, docs, and Gemi
 
 Worse yet, do you find yourself digging through an endless wall of text, unable to remember or quickly locate that one killer prompt or response when you need it most?
 
-**This is where Clipdown Repos steps in.** 
-
-It allows you to instantly capture, highlight, and preserve snippet contexts via local-first architecture. Even if the network drops or the tab crashes, your assets are securely saved locally—ready to be streamed into your personal knowledge base.
+**This is where Clipdown Repos steps in.** It allows you to instantly capture, highlight, and preserve snippet contexts via local-first architecture. Even if the network drops or the tab crashes, your assets are securely saved locally—ready to be streamed into your personal knowledge base.
 
 > [!IMPORTANT]
 > **Principles:** Clipdown Repos wasn’t built to be another tedious productivity tool that demands your time, maintenance, or learning curve. We strive for invisibility. It is lightweight, fluid, and so natural that you’ll barely notice it’s there—carrying your high-frequency workflows without adding any friction to your habits.
@@ -108,9 +106,7 @@ feel free to open an **Issue** or share it at our feedback hub:
 还在不同的 Gemini 话题、文档、浏览器标签页 and 资源库之间，疲于来回切换复制粘贴吗？或是担心网络波动导致会话意外中断，上下文和对话因网页报错刷新而瞬间蒸发吗？
 是否还因为对话内容过多，使用时记不清或无法快速找到重点内容 and 对话？
 
-**这正是 Clipdown Repos 大显身手的地方** 
-
-纯 Local-first 架构。通过局部或全量选取，一键捕获、自动高亮并保留上下文。即使网络不稳定，所划选的内容可即时完整地保存在本地，并完美桥接第三方工作平台，彻底解决会话与内容丢失的恐慌，让知识和想法自然流动。
+**这正是 Clipdown Repos 大显身手的地方** 纯 Local-first 架构。通过局部或全量选取，一键捕获、自动高亮并保留上下文。即使网络不稳定，所划选的内容可即时完整地保存在本地，并完美桥接第三方工作平台，彻底解决会话与内容丢失的恐慌，让知识和想法自然流动。
 
 > [!IMPORTANT]
 > **Principles：** Clipdown Repos 从不希望成为另一个需要你刻意学习、小心维护的繁琐工具。我们追求「无形无感」——它足够轻量，自然到你几乎忘记它的存在，无需改变任何习惯，便能用最纯粹的架构承载最高频的知识流动。
@@ -143,7 +139,7 @@ feel free to open an **Issue** or share it at our feedback hub:
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **From Creator:** Clipdown Repos 拒绝了任何后台追踪、云端收集以及弹窗索评的机制，这符合我们一贯的产品理念。如果它让你的工作更加高效和体验提升，希望可以在 X、Reddit、Threads，小红书或技术圈子里顺手推荐一下它，那将是对这个项目最大的鼓励。好工具被更多人看见，共同提升 Gemini 的体验。谢谢！
+> **From Creator:** Clipdown Repos 拒绝了任何后台追踪、云端收集以及弹窗索评的机制，这符合我们一贯的产品理念。如果它使你的工作更加高效和简单，希望可以在 X、Reddit、Threads，小红书或技术圈子里顺手推荐一下它，这将是对这个项目最大的鼓励。好工具被更多人看见，并从中获益，共同提升 Gemini 的体验。谢谢！
 
 **GPL-3.0 License © 2026 Clipdown Repos**
 
@@ -175,9 +171,7 @@ feel free to open an **Issue** or share it at our feedback hub:
 複数の Gemini スレッド、ドキュメント、ブラウザタブの間を何度も往復し、コピー＆ペーストを繰り返す作業に追われていませんか？あるいは、プロキシ of 瞬断やページの予期せぬエラーによって、それまで Gemini と重ねてきた長大な対話コンテキストが一瞬で消え去ってしまった経験はないでしょうか。
 さらに、チャット内容が長くなりすぎ、どこに重要な情報や会話があったのか分からなくなり、テキストの海で迷子になってしまうことはありませんか？
 
-**ここに、Clipdown Repos が登場します。** 
-
-完全なローカルファースト（Local-First）設計により、選択したテキストやコードブロックをシームレスにキャプチャして自動ハイライト保持。たとえネットワークが途切れても、あなたの貴重な対話資産は安全にブラウザ内にロックされ、Obsidian などの外部ナレッジベースへと流れるように橋渡しされます。
+**ここに、Clipdown Repos が登場します。** 完全なローカルファースト（Local-First）設計により、選択したテキストやコードブロックをシームレスにキャプチャして自動ハイライト保持。たとえネットワークが途切れても、あなたの貴重な対話資産は安全にブラウザ内にロックされ、Obsidian などの外部ナレッジベースへと流れるように橋渡しされます。
 
 > [!IMPORTANT]
 > **Principles:** Clipdown Repos は、学ぶための時間や日々のメンテナンス、あるいは新しい習慣を強いるような、煩雑な生産性ツールを目指してはいません。私たちが追求したのは「空気のような存在（Invisibility）」です。既存のワークフローに一切の摩擦を生むことなく、極めて軽量かつ洗練されたアーキテクチャで、大切な知識の流動を自然に支えます。
@@ -210,6 +204,6 @@ feel free to open an **Issue** or share it at our feedback hub:
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **From Creator:** Clipdown Repos は追跡、クラウド収集、評価の強制を一切行いません。これは私たちの揺るぎない設計思想です。もしこのツールがあなたの作業を効率化し、体験を高めたと感じたら、X、Reddit、Threads、小紅書（Xiaohongshu）、あるいは技術コミュニティでシェアしていただけると大変励みになります。優れたツールが発見され、共に Gemini の体験を高めていくために。ありがとう！
+> **From Creator:** Clipdown Repos は追跡、クラウド収集、評価の強制を一切行いません。これは私たちの揺るぎない設計思想です。もしこのツールがあなたの作業を効率化し、体験を高めたと感じたら、X、Reddit、Threads、小紅書（Xiaohongshu）、または技術コミュニティでシェアしていただけると大変励みになります。優れたツールが発見され、共に Gemini の体験を高めていく力になります。ありがとう！
 
 **GPL-3.0 License © 2026 Clipdown Repos**
