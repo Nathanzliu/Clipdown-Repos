@@ -1,6 +1,16 @@
+# Packaging Outputs (打包输出)
 *.zip
 *.crx
+dist/
+
+# Credentials & Security (证书与密钥)
 *.pem
+*.key
+
+# OS Metadata (系统缓存)
 .DS_Store
+Thumbs.db
+
+# IDEs & Editors (编辑器配置)
 .vscode/
 .idea/
