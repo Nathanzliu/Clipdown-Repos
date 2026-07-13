@@ -158,6 +158,10 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 <div id="traditional-chinese-version"></div>
 
+<details>
+<summary><b>🌐 點擊展開 / Click to Expand: Clipdown Repos (繁體中文)</b></summary>
+<br>
+
 <p align="center">
   <img src="logo.png" width="240" alt="Clipdown Repos Logo">
   <h1 align="center">Clipdown Repos (繁體中文)</h1>
@@ -178,7 +182,7 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E9%96%8B%E7%99%BC%E8%A6%8F%E8%8C%83-Manifest__V3-green?logo=chromium&logoColor=white&style=flat-square" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/%E9%9A%B1%E7%A7%81%E4%BF%9D%E8%AD%B7-100%25__%E7%B4%95%E9%9B%A2%E7%B7%9A-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
+  <img src="https://img.shields.io/badge/%E9%9A%B1%E7%A7%81%E4%BF%9D%E8%AD%B7-100%25__%E7%B4%85%E9%9B%A2%E7%B7%9A-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
 </p>
 
 ---
@@ -196,8 +200,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 ### 📦 核心功能與效率優勢
 
-* **⚡ 「2步」心流秒存**：在 Gemini 頁面端劃选任何文字或程式碼，點擊原生存放氣泡即可秒存，完全不打斷當前與 AI 的沉浸式對話。
-* **🧷 快捷反向引用**：一鍵將已存的卡片內容反向直填輸入框，免去傳統的頻繁複製貼上，讓前後文溯源和連續對話更絲滑。
+* **⚡ 「2步」心流秒存**：在 Gemini 頁面端劃選任何文字或程式碼，點擊原生存放氣泡即可秒存，完全不打斷當前與 AI 的沉浸式對話。
+* **🧷 快捷反向引用**：一鍵將已存的卡片內容反向直填输入框，免去傳統的頻繁複製貼上，讓前後文溯源和連續對話更絲滑。
 * **📂 Markdown 知識橋接**：支援一鍵流式打包匯出為標準 `.md` 文件，原生完美適配 Obsidian / Notion 等極客知識庫的 **Front Matter YAML 圍欄**，實現優雅的增量備份。
 * **🔒 100% 隱私與純離線**：無需註冊帳號，拒絕任何後台追蹤。所有資產均安全加密儲存於瀏覽器本機沙盒（`chrome.storage.local`），100% 斷網可用。
 * **🎨 Material 3 原生美學**：深度適配 Google Material 3 Expressive 設計規範，提供與 Gemini 官方視覺無縫銜接的自適應深淺色 Native 互動體驗。
@@ -219,14 +223,20 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **來自創作者：** Clipdown Repos 嚴厲拒絕 any 後台追蹤行為、雲端數據收集以及彈窗索評機制，這符合我們一貫純粹的产品理念。如果它幫助到了你，歡迎在 X (Twitter)、Reddit、Threads 或小紅書上隨手推薦，讓好工具被更多用戶看見。謝謝！
+> **來自創作者：** Clipdown Repos 嚴厲拒絕 any 後台追蹤行為、雲端數據收集以及彈窗索評機制，這符合我們一貫純粹的产品理念。如果它幫助到了你，歡迎在 X (Twitter)、Reddit, Threads 或小紅書上隨手推薦，讓好工具被更多用戶看見。謝謝！
 
 **GPL-3.0 License © 2026 Clipdown Repos**
+
+</details>
 
 ---
 <br>
 
 <div id="japanese-version"></div>
+
+<details>
+<summary><b>🌐 點擊展開 / Click to Expand: Clipdown Repos (日本語)</b></summary>
+<br>
 
 <p align="center">
   <img src="logo.png" width="240" alt="Clipdown Repos Logo">
@@ -258,7 +268,7 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 複数の Gemini スレッド、ドキュメント、ブラウザタブの間を何度も往復し、コピー＆ペーストを繰り返す作業に追われていませんか？あるいは、プロキシの瞬断やページの予期せぬエラーによって、それまで Gemini と重ねてきた長大な対話コンテキストが一瞬で消え去ってしまった経験はないでしょうか。
 さらに、チャット内容が長くなりすぎ、どこに重要な情報や会話があったのか分からなくなり、テキストの海で迷子になってしまうことはありませんか？
 
-**ここに、Clipdown Repos が登場します。** 完全なローカルファースト（Local-First）設計により、選択したテキストやコードブロックをシームレスにキャプチャして自動ハイライト保持。たとえネットワークが途切れても、あなたの貴重な対話資産は安全にブラウザ内にロックされ、Obsidian などの外部ナレッジベースへと流れるように橋渡しされます。
+**ここに、Clipdown Repos が登場します。** 完全なローカルファースト（Local-First）設計により、選択したテキストやコードブロックをシームレスにキャプチャして自動ハイライト保持。たとえネットワークが途切れたも、あなたの貴重な対話資産は安全にブラウザ内にロックされ、Obsidian などの外部ナレッジベースへと流れるように橋渡しされます。
 
 > [!IMPORTANT]
 > **コア設計思想：** Clipdown Repos は、学ぶための時間や日々のメンテナンス、あるいは新しい習慣を強いるような、煩雑な生産性ツールを目指してはいません。私たちが追求したのは「空気のような存在（Invisibility）」です。既存のワークフローに一切の摩擦を生むことなく、極めて軽量かつ洗練されたアーキテクチャで、大切な知識の流動を自然に支えます。
@@ -294,10 +304,16 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 **GPL-3.0 License © 2026 Clipdown Repos**
 
+</details>
+
 ---
 <br>
 
 <div id="korean-version"></div>
+
+<details>
+<summary><b>🌐 點擊展開 / Click to Expand: Clipdown Repos (한국어)</b></summary>
+<br>
 
 <p align="center">
   <img src="logo.png" width="240" alt="Clipdown Repos Logo">
@@ -365,3 +381,5 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 > **제작자의 한마디:** Clipdown Repos는 사용자 추적, 클라우드 데이터 수집, 평가 강요 팝업 메커니즘을 엄격히 배제하며, 이는 저희의 변함없는 순수한 제품 철학입니다. 이 툴이 일상적인 작업 효율을 높이는 데 도움이 되었다면 X(Twitter), Reddit, Threads 또는 기타 기술 커뮤니티에 편하게 추천해 주세요. 좋은 툴이 더 많은 사용자에게 알려지고, 함께 더 나은 Gemini 워크플로우를 만들어가는 데 큰 힘이 됩니다. 감사합니다!
 
 **GPL-3.0 License © 2026 Clipdown Repos**
+
+</details>
