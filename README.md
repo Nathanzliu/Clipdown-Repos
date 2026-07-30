@@ -11,8 +11,8 @@
 <div id="english-version"></div>
 
 <p align="center">
-  <img src="logo.png" width="240" alt="Clipdown Repos Logo">
-  <h1 align="center">Clipdown Repos</h1>
+  <img src="logo.png" width="240" alt="Clippen Logo">
+  <h1 align="center">Clippen</h1>
   <p align="center">
     A lightweight, local-first, subpixel-optimized Chrome extension built for Gemini. Capture context flawlessly, bypass session lag, and bridge your clips to Obsidian & Notion with front-matter YAML alignment.
   </p>
@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en">
-    <img src="https://img.shields.io/badge/Chrome__Web__Store-v1.2.2-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
+  <a href="https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=en">
+    <img src="https://img.shields.io/badge/Chrome__Web__Store-v1.2.3-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
   </a>
-  <a href="https://github.com/Nathanzliu/Clipdown-Repos/releases/latest">
+  <a href="https://github.com/Nathanzliu/Clippen/releases/latest">
     <img src="https://img.shields.io/badge/Latest__Release-Download-brightgreen?logo=github&style=for-the-badge" alt="Latest Release">
   </a>
 </p>
@@ -31,8 +31,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Manifest-V3-green?logo=chromium&logoColor=white&style=flat-square" alt="Manifest V3">
   <img src="https://img.shields.io/badge/Privacy-100%25__Offline-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
-  <a href="https://github.com/Nathanzliu/Clipdown-Repos/stargazers">
-    <img src="https://img.shields.io/github/stars/Nathanzliu/Clipdown-Repos?style=flat-square&color=ffd700" alt="GitHub Stars">
+  <a href="https://github.com/Nathanzliu/Clippen/stargazers">
+    <img src="https://img.shields.io/github/stars/Nathanzliu/Clippen?style=flat-square&color=ffd700" alt="GitHub Stars">
   </a>
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-GPL--3.0-lightgrey?style=flat-square" alt="License GPL-3.0">
@@ -41,16 +41,16 @@
 
 ---
 
-### 💡 Why Clipdown Repos?
+### 💡 Why Clippen?
 
 Are you tired of constantly juggling between dozens of open tabs, docs, and Gemini chat threads just to copy and paste snippets? Worried that a sudden proxy lag or unexpected page refresh will wipe out your long, highly-tuned AI context in a split second?
 
 Worse yet, do you find yourself digging through an endless wall of text, unable to remember or quickly locate that one killer prompt or response when you need it most?
 
-**This is where Clipdown Repos steps in.** It allows you to instantly capture, highlight, and preserve snippet contexts via local-first architecture. Even if the network drops or the tab crashes, your assets are securely saved locally—ready to be streamed into your personal knowledge base.
+**This is where Clippen steps in.** It allows you to instantly capture, highlight, and preserve snippet contexts via local-first architecture. Even if the network drops or the tab crashes, your assets are securely saved locally—ready to be streamed into your personal knowledge base.
 
 > [!IMPORTANT]
-> **Core Principle:** Clipdown Repos wasn’t built to be another tedious productivity tool that demands your time, maintenance, or learning curve. We strive for **invisibility**. It is lightweight, fluid, and so natural that you’ll barely notice it’s there—carrying your high-frequency workflows without adding any friction to your habits.
+> **Core Principle:** Clippen wasn’t built to be another tedious productivity tool that demands your time, maintenance, or learning curve. We strive for **invisibility**. It is lightweight, fluid, and so natural that you’ll barely notice it’s there—carrying your high-frequency workflows without adding any friction to your habits.
 
 ---
 
@@ -67,8 +67,8 @@ Worse yet, do you find yourself digging through an endless wall of text, unable 
 
 ### 🛠️ Installation
 
-1. Download the production package from the [Chrome Web Store](https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en).
-2. Alternatively, grab the latest pre-compiled build directly from the [Releases](https://github.com/Nathanzliu/Clipdown-Repos/releases/latest) section.
+1. Download the production package from the [Chrome Web Store](https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=en).
+2. Alternatively, grab the latest pre-compiled build directly from the [Releases](https://github.com/Nathanzliu/Clippen/releases/latest) section.
 3. Open Gemini, highlight a block of code, and experience seamless context preservation.
 
 ---
@@ -79,9 +79,9 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **From Creator:** Clipdown Repos features zero tracking, zero cloud storage, and zero rating prompts. If it enhances your daily productivity, feel free to share it on X, Reddit, Threads, or Rednote. Every mention helps more users discover the tool and build a better Gemini workflow together. Thank you!
+> **From Creator:** Clippen features zero tracking, zero cloud storage, and zero rating prompts. If it enhances your daily productivity, feel free to share it on X, Reddit, Threads, or Rednote. Every mention helps more users discover the tool and build a better Gemini workflow together. Thank you!
 
-**GPL-3.0 License © 2026 Clipdown Repos**
+**GPL-3.0 License © 2026 Clippen**
 
 ---
 <br>
@@ -89,8 +89,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 <div id="chinese-version"></div>
 
 <p align="center">
-  <img src="logo.png" width="240" alt="Clipdown Repos Logo">
-  <h1 align="center">Clipdown Repos (简体中文)</h1>
+  <img src="logo.png" width="240" alt="Clippen Logo">
+  <h1 align="center">Clippen (简体中文)</h1>
   <p align="center">
     一款专为 Gemini 打造的极简、强大的上下文选取、记录与管理的本地收藏库。一键划选，即可秒存代码、Prompt 提示词与创意灵感。
   </p>
@@ -98,17 +98,17 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en">
-    <img src="https://img.shields.io/badge/Chrome__%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-v1.2.2-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
+  <a href="https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=zh-CN">
+    <img src="https://img.shields.io/badge/Chrome__%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97-v1.2.3-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
   </a>
-  <a href="https://github.com/Nathanzliu/Clipdown-Repos/releases/latest">
+  <a href="https://github.com/Nathanzliu/Clippen/releases/latest">
     <img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD-brightgreen?logo=github&style=for-the-badge" alt="Latest Release">
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83-Manifest__V3-green?logo=chromium&logoColor=white&style=flat-square" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4-100%25__%E7%B4%AC%E7%A6%BB%E7%BA%BF-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
+  <img src="https://img.shields.io/badge/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4-100%25__%E7%B4%85%E7%A6%BB%E7%BA%BF-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
 </p>
 
 ---
@@ -117,10 +117,10 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 还在不同的 Gemini 话题、文档、浏览器标签页与资源库之间，疲于来回切换复制粘贴吗？或是担心网络波动导致会话意外中断，长文本提示词和 AI 的精彩回答因网页报错刷新而瞬间蒸发？当对话上下文过多时，你是否也曾陷入无法快速定位关键代码和核心 Prompt 的技术文本海？
 
-**这正是 Clipdown Repos 大显身手的地方。** 基于纯正的 Local-first（本地优先）架构，通过轻量化的局部划选或全量选取，一键捕获、自动高亮并完美结构化保留上下文。即使遭遇网络崩溃，你的智力资产也能即时安全地锁定在本地，并提供直达第三方工作流的桥接，彻底终结会话丢失的焦虑。
+**这正是 Clippen 大显身手的地方。** 基于纯正的 Local-first（本地优先）架构，通过轻量化的局部划选或全量选取，一键捕获、自动高亮并完美结构化保留上下文。即使遭遇网络崩溃，你的智力资产也能即时安全地锁定在本地，并提供直达第三方工作流的桥接，彻底终结会话丢失的焦虑。
 
 > [!IMPORTANT]
-> **核心设计理念：** Clipdown Repos 绝不希望成为另一个需要你刻意学习、小心维护的繁琐工具。Clipdown Repos 追求「无形无感」——它足够轻量，自然到你几乎忘记它的存在，无需改变任何输入习惯，便能用最纯粹的沙盒架构承载最高频的知识流动。
+> **核心设计理念：** Clippen 绝不希望成为另一个需要你刻意学习、小心维护的繁琐工具。Clippen 追求「无形无感」——它足够轻量，自然到你几乎忘记它的存在，无需改变任何输入习惯，便能用最纯粹的沙盒架构承载最高频的知识流动。
 
 ---
 
@@ -137,8 +137,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 ### 🛠️ 安装指引
 
-1. 前往 [Chrome 应用商店](https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en) 一键添加至浏览器。
-2. 或者在右侧的 [Releases](https://github.com/Nathanzliu/Clipdown-Repos/releases/latest) 直接下载编译好的压缩包进行手动扩展加载。
+1. 前往 [Chrome 应用商店](https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=zh-CN) 一键添加至浏览器。
+2. 或者在右侧的 [Releases](https://github.com/Nathanzliu/Clippen/releases/latest) 直接下载编译好的压缩包进行手动扩展加载。
 3. 刷新或开启一个新的 Gemini 会话页面，划选任意文本，即可立即使用。
 
 ---
@@ -149,9 +149,9 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **来自创作者：** Clipdown Repos 严厉拒绝任何后台追踪行为、云端数据收集以及弹窗索评机制，这符合我们一贯纯粹的产品理念。如果它帮助到了你，欢迎在 X (Twitter), Reddit, Threads 或小红书上随手推荐，让好工具被更多用户看见。谢谢！
+> **来自创作者：** Clippen 严厉拒绝任何后台追踪行为、云端数据收集以及弹窗索评机制，这符合我们一贯纯粹的产品理念。如果它帮助到了你，欢迎在 X (Twitter), Reddit, Threads 或小红书上随手推荐，让好工具被更多用户看见。谢谢！
 
-**GPL-3.0 License © 2026 Clipdown Repos**
+**GPL-3.0 License © 2026 Clippen**
 
 ---
 <br>
@@ -159,12 +159,12 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 <div id="traditional-chinese-version"></div>
 
 <details>
-<summary><b>🌐 點擊展開 / Click to Expand: Clipdown Repos (繁體中文)</b></summary>
+<summary><b>🌐 點擊展開 / Click to Expand: Clippen (繁體中文)</b></summary>
 <br>
 
 <p align="center">
-  <img src="logo.png" width="240" alt="Clipdown Repos Logo">
-  <h1 align="center">Clipdown Repos (繁體中文)</h1>
+  <img src="logo.png" width="240" alt="Clippen Logo">
+  <h1 align="center">Clippen (繁體中文)</h1>
   <p align="center">
     一款專為 Gemini 打造的極簡、強大的上下文選取、記錄與管理的本機收藏庫。一鍵劃選，即可秒存程式碼、Prompt 提示詞與創意靈感。
   </p>
@@ -172,10 +172,10 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=zh-TW">
-    <img src="https://img.shields.io/badge/Chrome__%E7%B7%9A%E4%B8%8A%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%95%86%E5%BA%97-v1.2.2-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
+  <a href="https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=zh-TW">
+    <img src="https://img.shields.io/badge/Chrome__%E7%B7%9A%E4%B8%8A%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E5%95%86%E5%BA%97-v1.2.3-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
   </a>
-  <a href="https://github.com/Nathanzliu/Clipdown-Repos/releases/latest">
+  <a href="https://github.com/Nathanzliu/Clippen/releases/latest">
     <img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD-brightgreen?logo=github&style=for-the-badge" alt="Latest Release">
   </a>
 </p>
@@ -191,17 +191,17 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 還在不同的 Gemini 話題、文件、瀏覽器分頁與資源庫之間，疲於來回切換複製貼上嗎？或是擔心網路波動導致會話意外中斷，長文本提示詞和 AI 的精彩回答因網頁報錯重新整理而瞬間蒸發？當對話上下文過多時，你是否也曾陷入無法快速定位關鍵程式碼和核心 Prompt 的技術文本海？
 
-**這正是 Clipdown Repos 大顯身手的地方。** 基於純正的 Local-first（本機優先）架構，透過輕量化的局部劃選或全量選取，一鍵捕獲、自動高亮並完美結構化保留上下文。即使遭遇網路崩潰，你的智力資產也能即時安全地鎖定在本機，並提供直達第三方工作流的橋接與銜接，徹底終結會話丟失的焦慮。
+**這正是 Clippen 大顯身手的地方。** 基於純正的 Local-first（本機優先）架構，透過輕量化的局部劃選或全量選取，一鍵捕獲、自動高亮並完美結構化保留上下文。即使遭遇網路崩潰，你的智力資產也能即時安全地鎖定在本機，並提供直達第三方工作流的橋接與銜接，徹底終結會話丟失的焦慮。
 
 > [!IMPORTANT]
-> **核心設計理念：** Clipdown Repos 絕不希望成為另一個需要你刻意學習、小心維護的繁瑣工具。Clipdown Repos 追求「無形無感」——它足夠輕量，自然到你幾乎忘記它的存在，無需改變任何輸入習慣，便能用最純粹的沙盒架構承載最高頻的知識流動。
+> **核心設計理念：** Clippen 絕不希望成為另一個需要你刻意學習、小心維護的繁瑣工具。Clippen 追求「無形無感」——它足夠輕量，自然到你幾乎忘記它的存在，無需改變任何輸入習慣，便能用最純粹的沙盒架構承載最高頻的知識流動。
 
 ---
 
 ### 📦 核心功能與效率優勢
 
 * **⚡ 「2步」心流秒存**：在 Gemini 頁面端劃選任何文字或程式碼，點擊原生存放氣泡即可秒存，完全不打斷當前與 AI 的沉浸式對話。
-* **🧷 快捷反向引用**：一鍵將已存的卡片內容反向直填输入框，免去傳統的頻繁複製貼上，讓前後文溯源和連續對話更絲滑。
+* **🧷 快捷反向引用**：一鍵將已存的卡片內容反向直填輸入框，免去傳統的頻繁複製貼上，讓前後文溯源和連續對話更絲滑。
 * **📂 Markdown 知識橋接**：支援一鍵流式打包匯出為標準 `.md` 文件，原生完美適配 Obsidian / Notion 等極客知識庫的 **Front Matter YAML 圍欄**，實現優雅的增量備份。
 * **🔒 100% 隱私與純離線**：無需註冊帳號，拒絕任何後台追蹤。所有資產均安全加密儲存於瀏覽器本機沙盒（`chrome.storage.local`），100% 斷網可用。
 * **🎨 Material 3 原生美學**：深度適配 Google Material 3 Expressive 設計規範，提供與 Gemini 官方視覺無縫銜接的自適應深淺色 Native 互動體驗。
@@ -211,8 +211,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 ### 🛠️ 安裝指引
 
-1. 前往 [Chrome 線上應用程式商店](https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=zh-TW) 一鍵新增至瀏覽器。
-2. 或者在右側的 [Releases](https://github.com/Nathanzliu/Clipdown-Repos/releases/latest) 直接下載編譯好的壓縮包進行手動擴充功能載入。
+1. 前往 [Chrome 線上應用程式商店](https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=zh-TW) 一鍵新增至瀏覽器。
+2. 或者在右側的 [Releases](https://github.com/Nathanzliu/Clippen/releases/latest) 直接下載編譯好的壓縮包進行手動擴充功能載入。
 3. 重新整理或開啟一個新的 Gemini 會話頁面，劃選任何文字，即可立即使用。
 
 ---
@@ -223,9 +223,9 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **來自創作者：** Clipdown Repos 嚴厲拒絕 any 後台追蹤行為、雲端數據收集以及彈窗索評機制，這符合我們一貫純粹的产品理念。如果它幫助到了你，歡迎在 X (Twitter)、Reddit, Threads 或小紅書上隨手推薦，讓好工具被更多用戶看見。謝謝！
+> **來自創作者：** Clippen 嚴厲拒絕 any 後台追蹤行為、雲端數據收集以及彈窗索評機制，這符合我們一貫純粹的產品理念。如果它幫助到了你，歡迎在 X (Twitter)、Reddit, Threads 或小紅書上隨手推薦，讓好工具被更多用戶看見。謝謝！
 
-**GPL-3.0 License © 2026 Clipdown Repos**
+**GPL-3.0 License © 2026 Clippen**
 
 </details>
 
@@ -235,12 +235,12 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 <div id="japanese-version"></div>
 
 <details>
-<summary><b>🌐 點擊展開 / Click to Expand: Clipdown Repos (日本語)</b></summary>
+<summary><b>🌐 點擊展開 / Click to Expand: Clippen (日本語)</b></summary>
 <br>
 
 <p align="center">
-  <img src="logo.png" width="240" alt="Clipdown Repos Logo">
-  <h1 align="center">Clipdown Repos (日本語)</h1>
+  <img src="logo.png" width="240" alt="Clippen Logo">
+  <h1 align="center">Clippen (日本語)</h1>
   <p align="center">
     Geminiのために開発された、軽量かつローカルファーストの革新的なクリップ・管理ワークスペース。
   </p>
@@ -248,10 +248,10 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en">
-    <img src="https://img.shields.io/badge/Chrome__Web__Store-v1.2.2-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
+  <a href="https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=ja">
+    <img src="https://img.shields.io/badge/Chrome__Web__Store-v1.2.3-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
   </a>
-  <a href="https://github.com/Nathanzliu/Clipdown-Repos/releases/latest">
+  <a href="https://github.com/Nathanzliu/Clippen/releases/latest">
     <img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E3%83%AA%E3%83%AC%E3%83%BC%E3%82%B9-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-brightgreen?logo=github&style=for-the-badge" alt="Latest Release">
   </a>
 </p>
@@ -263,15 +263,15 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 ---
 
-### 💡 なぜ Clipdown Repos なのか？
+### 💡 なぜ Clippen なのか？
 
 複数の Gemini スレッド、ドキュメント、ブラウザタブの間を何度も往復し、コピー＆ペーストを繰り返す作業に追われていませんか？あるいは、プロキシの瞬断やページの予期せぬエラーによって、それまで Gemini と重ねてきた長大な対話コンテキストが一瞬で消え去ってしまった経験はないでしょうか。
 さらに、チャット内容が長くなりすぎ、どこに重要な情報や会話があったのか分からなくなり、テキストの海で迷子になってしまうことはありませんか？
 
-**ここに、Clipdown Repos が登場します。** 完全なローカルファースト（Local-First）設計により、選択したテキストやコードブロックをシームレスにキャプチャして自動ハイライト保持。たとえネットワークが途切れたも、あなたの貴重な対話資産は安全にブラウザ内にロックされ、Obsidian などの外部ナレッジベースへと流れるように橋渡しされます。
+**ここに、Clippen が登場します。** 完全なローカルファースト（Local-First）設計により、選択したテキストやコードブロックをシームレスにキャプチャして自動ハイライト保持。たとえネットワークが途切れたも、あなたの貴重な対話資産は安全にブラウザ内にロックされ、Obsidian などの外部ナレッジベースへと流れるように橋渡しされます。
 
 > [!IMPORTANT]
-> **コア設計思想：** Clipdown Repos は、学ぶための時間や日々のメンテナンス、あるいは新しい習慣を強いるような、煩雑な生産性ツールを目指してはいません。私たちが追求したのは「空気のような存在（Invisibility）」です。既存のワークフローに一切の摩擦を生むことなく、極めて軽量かつ洗練されたアーキテクチャで、大切な知識の流動を自然に支えます。
+> **コア設計思想：** Clippen は、学ぶための時間や日々のメンテナンス、あるいは新しい習慣を強いるような、煩雑な生産性ツールを目指してはいません。私たちが追求したのは「空気のような存在（Invisibility）」です。既存のワークフローに一切の摩擦を生むことなく、極めて軽量かつ洗練されたアーキテクチャで、大切な知識の流動を自然に支えます。
 
 ---
 
@@ -288,8 +288,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 ### 🛠️ インストール方法
 
-1. [Chrome ウェブストア](https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=en) にアクセスし、公式拡張機能を追加します。
-2. または、右側の [Releases](https://github.com/Nathanzliu/Clipdown-Repos/releases/latest) セクションからコンパイル済みのパッケージを直接ダウンロードして手動マウントすることも可能です。
+1. [Chrome ウェブストア](https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=ja) にアクセスし、公式拡張機能を追加します。
+2. または、右側の [Releases](https://github.com/Nathanzliu/Clippen/releases/latest) セクションからコンパイル済みのパッケージを直接ダウンロードして手動マウントすることも可能です。
 3. Gemini のセッションページを開き（あるいはリフレッシュし）、任意のテキストを範囲選択するだけで、インテリジェントなローカルデータベースがその場で稼働し始めます。
 
 ---
@@ -300,9 +300,9 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **開発者より：** Clipdown Repos は追跡、クラウド収集、評価の強制を一切行いません。これらは私たちの揺るぎない設計思想です。もしこのツールがあなたの作業を効率化し、体験を高めたと感じたら、X、Reddit、Threads、または技術コミュニティでシェアしていただけると大変励みになります。優れたツールが発見され、共に Gemini の体験を高めていく力になります。ありがとう！
+> **開発者より：** Clippen は追跡、クラウド収集、評価の強制を一切行いません。これらは私たちの揺るぎない設計思想です。もしこのツールがあなたの作業を効率化し、体験を高めたと感じたら、X、Reddit、Threads、または技術コミュニティでシェアしていただけると大変励みになります。優れたツールが発見され、共に Gemini の体験を高めていく力になります。ありがとう！
 
-**GPL-3.0 License © 2026 Clipdown Repos**
+**GPL-3.0 License © 2026 Clippen**
 
 </details>
 
@@ -312,12 +312,12 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 <div id="korean-version"></div>
 
 <details>
-<summary><b>🌐 點擊展開 / Click to Expand: Clipdown Repos (한국어)</b></summary>
+<summary><b>🌐 點擊展開 / Click to Expand: Clippen (한국어)</b></summary>
 <br>
 
 <p align="center">
-  <img src="logo.png" width="240" alt="Clipdown Repos Logo">
-  <h1 align="center">Clipdown Repos (한국어)</h1>
+  <img src="logo.png" width="240" alt="Clippen Logo">
+  <h1 align="center">Clippen (한국어)</h1>
   <p align="center">
     Gemini 사용자를 위한 가장 직관적이고 강력한 컨텍스트 스크랩·관리 로컬 아카이브. 클릭 한 번으로 코드, 프롬프트, 크리에이티브 아이디어를 즉시 저장하세요.
   </p>
@@ -325,31 +325,31 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 </p>
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=ko">
-    <img src="https://img.shields.io/badge/Chrome__%EC%9B%B9__%EC%8A%A4%ED%84%B0-v1.2.2-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
+  <a href="https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=ko">
+    <img src="https://img.shields.io/badge/Chrome__%EC%9B%B9__%EC%8A%A4%ED%84%B0-v1.2.3-blue?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Chrome Web Store">
   </a>
-  <a href="https://github.com/Nathanzliu/Clipdown-Repos/releases/latest">
+  <a href="https://github.com/Nathanzliu/Clippen/releases/latest">
     <img src="https://img.shields.io/badge/%EC%B5%9C%EC%8B%A0__%EB%B2%84%EC%A0%84-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-brightgreen?logo=github&style=for-the-badge" alt="Latest Release">
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%EA%B0%9C%EB%B0%9C%EA%B2%A9%EC%8B%9D-Manifest__V3-green?logo=chromium&logoColor=white&style=flat-square" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C-100%25__%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
+  <img src="https://img.shields.io/badge/%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C-100%25__%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84-blueviolet?logo=shield&logoColor=white&style=flat-square" alt="Privacy First">
 </p>
 
 ---
 
-### 💡 왜 Clipdown Repos인가요?
+### 💡 왜 Clippen인가요?
 
 스니펫 하나를 복사하고 붙여넣기 위해 수십 개의 열린 탭, 문서, Gemini 대화 스레드 사이를 끊임없이 오가며 피로감을 느끼진 않으셨나요? 갑작스러운 네트워크 중단이나 예기치 못한 페이지 새로고침으로 인해 공들여 작성하고 쌓아온 AI 컨텍스트가 한순간에 증발해 버릴까 봐 걱정되진 않으셨나요?
 
 게다가 대화 내용이 너무 길어져서 가장 중요한 핵심 프롬프트나 답변이 어디에 있었는지 텍스트의 바다에서 길을 잃고 헤맨 적은 없으신가요?
 
-**바로 이 문제를 해결하기 위해 Clipdown Repos가 탄생했습니다.** 철저한 로컬 퍼스트(Local-first) 아키텍처를 기반으로, 텍스트나 코드 블록을 드래그하여 선택하는 것만으로 컨텍스트를 즉시 캡처하고 자동 하이라이트로 보존합니다. 네트워크가 끊어지거나 탭이 다운되더라도 소중한 지식 자산은 브라우저 내에 안전하게 잠금 보관되며, Obsidian이나 Notion과 같은 개인 지식 베이스로 흐르듯 자연스럽게 연동됩니다.
+**바로 이 문제를 해결하기 위해 Clippen이 탄생했습니다.** 철저한 로컬 퍼스트(Local-first) 아키텍처를 기반으로, 텍스트나 코드 블록을 드래그하여 선택하는 것만으로 컨텍스트를 즉시 캡처하고 자동 하이라이트로 보존합니다. 네트워크가 끊어지거나 탭이 다운되더라도 소중한 지식 자산은 브라우저 내에 안전하게 잠금 보관되며, Obsidian이나 Notion과 같은 개인 지식 베이스로 흐르듯 자연스럽게 연동됩니다.
 
 > [!IMPORTANT]
-> **핵심 디자인 철학:** Clipdown Repos는 사용자의 아까운 시간을 빼앗거나 까다로운 유지 관리, 혹은 새로운 학습 곡선을 요구하는 번거로운 생산성 툴이 되는 것을 거부합니다. 우리가 추구하는 것은 **'공기 같은 존재(Invisibility)'**입니다. 기존의 작업 방식에 그 어떤 마찰도 일으키지 않는 극도로 가볍고 정제된 구조로, 소중한 지식의 흐름을 가장 자연스럽게 지원합니다.
+> **핵심 디자인 철학:** Clippen은 사용자의 아까운 시간을 빼앗거나 까다로운 유지 관리, 혹은 새로운 학습 곡선을 요구하는 번거로운 생산성 툴이 되는 것을 거부합니다. 우리가 추구하는 것은 **'공기 같은 존재(Invisibility)'**입니다. 기존의 작업 방식에 그 어떤 마찰도 일으키지 않는 극도로 가볍고 정제된 구조로, 소중한 지식의 흐름을 가장 자연스럽게 지원합니다.
 
 ---
 
@@ -366,8 +366,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 
 ### 🛠️ 설치 방법
 
-1. [Chrome 웹 스토어](https://chromewebstore.google.com/detail/clipdown-repos-context-cl/hnofabebkcclhdelobojjghbjfcobpco?hl=ko)에 방문하여 확장 프로그램을 클릭 한 번으로 브라우저에 추가합니다.
-2. 또는 우측의 [Releases](https://github.com/Nathanzliu/Clipdown-Repos/releases/latest) 섹션에서 미리 컴파일된 압축 빌드 파일을 직접 다운로드하여 수동으로 확장 프로그램을 로드할 수도 있습니다.
+1. [Chrome 웹 스토어](https://chromewebstore.google.com/detail/clippen-context-clipper-f/hnofabebkcclhdelobojjghbjfcobpco?hl=ko)에 방문하여 확장 프로그램을 클릭 한 번으로 브라우저에 추가합니다.
+2. 또는 우측의 [Releases](https://github.com/Nathanzliu/Clippen/releases/latest) 섹션에서 미리 컴파일된 압축 빌드 파일을 직접 다운로드하여 수동으로 확장 프로그램을 로드할 수도 있습니다.
 3. Gemini 세션 페이지를 열거나 새로고침한 뒤, 원하는 텍스트를 드래그하여 지능형 로컬 데이터베이스의 작동을 즉시 경험해 보세요.
 
 ---
@@ -378,8 +378,8 @@ If you have any feature ideas, bug reports, or suggestions, feel free to open an
 👉 [bebetter msg](https://zpen.featurebase.app/)
 
 > [!NOTE]
-> **제작자의 한마디:** Clipdown Repos는 사용자 추적, 클라우드 데이터 수집, 평가 강요 팝업 메커니즘을 엄격히 배제하며, 이는 저희의 변함없는 순수한 제품 철학입니다. 이 툴이 일상적인 작업 효율을 높이는 데 도움이 되었다면 X(Twitter), Reddit, Threads 또는 기타 기술 커뮤니티에 편하게 추천해 주세요. 좋은 툴이 더 많은 사용자에게 알려지고, 함께 더 나은 Gemini 워크플로우를 만들어가는 데 큰 힘이 됩니다. 감사합니다!
+> **제작자의 한마디:** Clippen은 사용자 추적, 클라우드 데이터 수집, 평가 강요 팝업 메커니즘을 엄격히 배제하며, 이는 저희의 변함없는 순수한 제품 철학입니다. 이 툴이 일상적인 작업 효율을 높이는 데 도움이 되었다면 X(Twitter), Reddit, Threads 또는 기타 기술 커뮤니티에 편하게 추천해 주세요. 좋은 툴이 더 많은 사용자에게 알려지고, 함께 더 나은 Gemini 워크플로우를 만들어가는 데 큰 힘이 됩니다. 감사합니다!
 
-**GPL-3.0 License © 2026 Clipdown Repos**
+**GPL-3.0 License © 2026 Clippen**
 
 </details>
